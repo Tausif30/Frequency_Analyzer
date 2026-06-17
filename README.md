@@ -21,7 +21,7 @@ The application processes acquired signals in both the time and frequency domain
 <hr>
 
 <h2>Generated Output Example:</h2>
-
+<img width="1925" height="1200" alt="Experiment_A" src="https://github.com/user-attachments/assets/8219fb74-6a90-4615-ae10-0a5e299788fe" />
 
 <h2>Applications</h2>
 
