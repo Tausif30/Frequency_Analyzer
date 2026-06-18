@@ -21,7 +21,10 @@ The application processes acquired signals in both the time and frequency domain
 <hr>
 
 <h2>Generated Output Example:</h2>
-<img width="1925" height="1200" alt="Experiment_A" src="https://github.com/user-attachments/assets/8219fb74-6a90-4615-ae10-0a5e299788fe" />
+<img width="1917" height="1200" alt="Syn" src="https://github.com/user-attachments/assets/72ad2ca1-ddc3-49ba-9dc2-2c6dcabd6729" />
+<br>
+<h4><strong>*This is a Synthetic Data.</strong></h4>
+
 
 <h2>Applications</h2>
 
